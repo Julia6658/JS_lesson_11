@@ -5,5 +5,6 @@
  3 — запрос был перенаправлен;<br>
  4 — ресурс не найден или нет к нему доступа;<br>
  5 — ошибка на сервере.<br>
+7. Клиент взаимодействует с сервером через POST и GET-запросы<br>
 10. Через панель F12 -> вкладку Network
 11. В Content-Type можем писать формат передаваемых данных, то есть значения: application/x-www-form-urlencoded, multipart/form-data,  text/plain, application/json
